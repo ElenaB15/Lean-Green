@@ -1,0 +1,319 @@
+@media screen and (max-width: 1750px) {
+  .subheading {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+  .purshase,
+  .purshase-subscribe {
+    width: 40%;
+  }
+  .testimonoal-desc {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 1650px) {
+  .hero-title {
+    font-size: 45px;
+    line-height: 1.2;
+  }
+  .hero-description {
+    font-size: 22px;
+  }
+  .hero-text-box {
+    max-width: 85%;
+  }
+  .three-title-holder,
+  .cart-holder-container {
+    max-width: 85%;
+  }
+  .three-title {
+    font-size: 32px;
+  }
+
+  .three-desc {
+    font-size: 24px;
+  }
+  .rediscover-offer {
+    max-width: 70%;
+  }
+  .testimonials {
+    max-width: 85%;
+    margin: 0 auto;
+  }
+  .container-two {
+    max-width: 90%;
+  }
+  .testimonials {
+    margin-bottom: 40px;
+  }
+  .why-lists {
+    max-width: 90%;
+  }
+  .why-ul li,
+  .why-ul-one li {
+    font-size: 22px;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .purshase-img-hol {
+    padding-bottom: 20px;
+  }
+  .m-b-logo {
+    top: 15%;
+    right: 5%;
+  }
+}
+@media screen and (max-width: 1250px) {
+  .subheading {
+    font-size: 28px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .subhead-desc,
+  .cart-desc,
+  .cart-desc-two,
+  .cart-list {
+    font-size: 18px;
+  }
+  .rediscover-offer {
+    max-width: 90%;
+  }
+  .purshase,
+  .purshase-subscribe {
+    width: 50%;
+  }
+  .container {
+    max-width: 85%;
+  }
+  .m-b-logo {
+    top: 20%;
+    right: 2%;
+  }
+  .purshase-imh-hol {
+    padding-bottom: 0px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .cart-holder {
+    flex-direction: column;
+  }
+  .cart-part-right {
+    align-self: center;
+  }
+  .cart-img {
+    width: 100%;
+  }
+  .purshase,
+  .purshase-subscribe {
+    width: 60%;
+  }
+  .rediscover-offer {
+    flex-wrap: wrap;
+  }
+  .container {
+    max-width: 85%;
+  }
+  .foot-title-holder {
+    flex-wrap: wrap;
+  }
+  .foot-title-holder h4 {
+    width: 50%;
+    margin-bottom: 20px;
+  }
+  .support-holder {
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+  .accordion-main-container {
+    max-width: 85%;
+  }
+  .safe-card {
+    width: 58%;
+  }
+  .flex {
+    flex-direction: column;
+  }
+  .risk-l {
+    width: 100%;
+  }
+
+  .risk-r {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .m-b-logo {
+    top: 47%;
+    right: 21%;
+  }
+  .testimonial {
+    padding: 20px 15px 20px;
+  }
+  .why-ul li,
+  .why-ul-one li {
+    font-size: 18px;
+  }
+  .why-img-hol img {
+    width: 60%;
+  }
+  .why-title h2 {
+    font-size: 38px;
+  }
+  .why-description {
+    padding: 0 10px;
+    font-size: 20px;
+  }
+  .flower {
+    top: 10%;
+    left: 25%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .hero-container-inner {
+    width: 100%;
+  }
+  .just-title {
+    font-size: 28px;
+  }
+  .cart-list {
+    padding-left: 20px;
+  }
+
+  .purshase,
+  .purshase-subscribe {
+    width: 100%;
+  }
+  .money-back-flex {
+    flex-direction: column;
+  }
+  .money-back-desc {
+    font-size: 16px;
+  }
+  .accordion-header {
+    padding: 20px 20px;
+  }
+  .accordion-header h3 {
+    font-size: 18px;
+  }
+  .accordion-description {
+    font-size: 18px;
+  }
+  .accordion-title {
+    font-size: 30px;
+  }
+  .safe-card {
+    width: 90%;
+  }
+  .supply p {
+    font-size: 18px;
+  }
+  .risk {
+    padding: 40px 10px;
+  }
+  .m-b-logo {
+    top: 48%;
+    right: 18%;
+  }
+  .risk-title {
+    font-size: 30px;
+  }
+  .safe-btn {
+    width: 70%;
+  }
+  .testimonials {
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+  }
+  .testimonial {
+    width: 100%;
+  }
+  .why-img-hol {
+    display: none;
+  }
+  .why-lists {
+    flex-wrap: wrap;
+  }
+  .why-list {
+    width: 100%;
+  }
+  .why-ul-one li {
+    flex-direction: row-reverse;
+    justify-content: left;
+  }
+}
+@media screen and (max-width: 600px) {
+  .m-b-logo {
+    top: 50%;
+    right: 10%;
+  }
+  .why-ul li,
+  .why-ul-one li {
+    font-size: 14px;
+  }
+  .flower {
+    display: none;
+  }
+}
+@media screen and (max-width: 400px) {
+  .hero-container-inner {
+    text-align: center;
+  }
+  .hero-title {
+    font-size: 38px;
+  }
+  .hero-description {
+    font-size: 18px;
+  }
+  .cart-title {
+    font-size: 28px;
+  }
+  .cart-desc,
+  .cart-desc-two,
+  .cart-list {
+    font-size: 16px;
+  }
+  .frame {
+    top: 28%;
+  }
+  .purshase-header h2,
+  .subscripe-header h2 {
+    font-size: 24px;
+  }
+  .accordion-header {
+    padding: 10px 10px;
+  }
+  .accordion-header h3 {
+    font-size: 16px;
+  }
+  .accordion-description {
+    font-size: 14px;
+  }
+  .safe-title {
+    font-size: 18px;
+  }
+  .safe-card {
+    width: 100%;
+  }
+  .supply p {
+    font-size: 16px;
+  }
+  .risk-l p,
+  .risk-r p,
+  .risk-desk p {
+    font-size: 16px;
+  }
+  .m-b-logo {
+    top: 53%;
+    right: 0%;
+  }
+  .safe-btn {
+    width: 100%;
+  }
+  .foot-title-holder h4 {
+    width: 100%;
+  }
+}
