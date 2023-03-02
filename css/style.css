@@ -436,6 +436,7 @@ body {
 }
 .mockup {
   position: relative;
+  z-index: 1;
 }
 .m-b-logo {
   position: absolute;
